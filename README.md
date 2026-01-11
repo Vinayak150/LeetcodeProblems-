@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/Vinayak150/Vinayak/tree/master/0338-counting-bits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vinayak150/Vinayak/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
+| [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 ## String
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
