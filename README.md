@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinayak150/Vinayak/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
