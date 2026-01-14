@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 | [3453-separate-squares-i](https://github.com/Vinayak150/Vinayak/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -103,4 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Vinayak150/Vinayak/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
