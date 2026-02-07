@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vinayak150/Vinayak/tree/master/0338-counting-bits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vinayak150/Vinayak/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
