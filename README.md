@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0027-remove-element) |
+| [0696-count-binary-substrings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinayak150/Vinayak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
