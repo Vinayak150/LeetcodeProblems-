@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vinayak150/Vinayak/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Vinayak150/Vinayak/tree/master/1390-four-divisors) |
 ## Recursion
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vinayak150/Vinayak/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vinayak150/Vinayak/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Breadth-First Search
