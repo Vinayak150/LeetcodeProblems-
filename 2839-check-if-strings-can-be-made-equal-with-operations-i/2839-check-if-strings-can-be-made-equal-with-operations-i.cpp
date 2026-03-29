@@ -15,7 +15,7 @@ public:
         swap(t[0],t[2]);
         swap(t[1],t[3]);
         if(t==s2)return true;
-        return false;
+    return false;
         
     }
 };
