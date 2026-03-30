@@ -1,22 +1,15 @@
-from collections import Counter
-
 class Solution:
     def checkStrings(self, s1,s2):
         
-        
-        even_s1 = []
-        odd_s1 = []
-        even_s2 = []
-        odd_s2 = []
-        
+        even = [0] * 26
+        odd = [0] * 26
+
         for i in range(len(s1)):
             if i % 2 == 0:
-                even_s1.append(s1[i])
-                even_s2.append(s2[i])
+                even[ord(s1[i]) - 97] += 1
+                even[ord(s2[i]) - 97] -= 1
             else:
-                odd_s1.append(s1[i])
-                odd_s2.append(s2[i])
-        
-        
-        return Counter(even_s1) == Counter(even_s2) and \
-               Counter(odd_s1) == Counter(odd_s2)
+                odd[ord(s1[i]) - 97] += 1
+                odd[ord(s2[i]) - 97] -= 1
+
+        return all(x == 0 for x in even) and all(x == 0 for x in odd)
