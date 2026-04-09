@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1895-largest-magic-square) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinayak150/Vinayak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1895-largest-magic-square) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Vinayak150/Vinayak/tree/master/1975-maximum-matrix-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2906-construct-product-matrix) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vinayak150/Vinayak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vinayak150/Vinayak/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1382-balance-a-binary-search-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinayak150/Vinayak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vinayak150/Vinayak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Vinayak150/Vinayak/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2573-find-the-string-with-lcp](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
