@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinayak150/Vinayak/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
