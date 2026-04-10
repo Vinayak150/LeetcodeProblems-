@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
 | ------- |
