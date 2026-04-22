@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vinayak150/Vinayak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2573-find-the-string-with-lcp) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Table
 |  |
