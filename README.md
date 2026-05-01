@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Vinayak150/Vinayak/tree/master/1390-four-divisors) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/Vinayak150/Vinayak/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vinayak150/Vinayak/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
