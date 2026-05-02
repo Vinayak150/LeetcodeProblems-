@@ -1,47 +1,41 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int maxLevelSum(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        int level = 1;
-        int ansLevel =1;
-        long long maxSum =LLONG_MIN;
+    void dfs(TreeNode* node, int level, vector<long long>& levelSum) {
+       
+        if (node == nullptr) return;
 
-        while(!q.empty()){
-            int s = q.size();
-            long long currSum =0;
-
-            for(int i= 0; i<s; i++){
-                TreeNode* node =q.front();
-                q.pop();
-
-                currSum += node->val;
-
-                if (node->left)
-                q.push(node->left);
-
-                if(node->right)
-                q.push(node->right);
-            }
-
-            if(currSum > maxSum){
-                maxSum = currSum;
-                ansLevel = level;
-            }
-            level++;
+        
+        if (level > (int)levelSum.size()) {
+            levelSum.push_back(0);
         }
 
-        return ansLevel;
+       
+        levelSum[level - 1] += node->val;
+
+        
+        dfs(node->left, level + 1, levelSum);
+
+       
+        dfs(node->right, level + 1, levelSum);
+    }
+
+    int maxLevelSum(TreeNode* root) {
+        vector<long long> levelSum;
+
+       
+        dfs(root, 1, levelSum);
+
+        
+        long long bestSum = levelSum[0];
+        int bestLevel = 1;
+
+        for (int i = 1; i < (int)levelSum.size(); i++) {
+            if (levelSum[i] > bestSum) {
+                bestSum = levelSum[i];
+                bestLevel = i + 1;
+            }
+        }
+
+        return bestLevel;
     }
 };
