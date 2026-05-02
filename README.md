@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/Vinayak150/Vinayak/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinayak150/Vinayak/tree/master/0013-roman-to-integer) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinayak150/Vinayak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Vinayak150/Vinayak/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1980-find-unique-binary-string) |
