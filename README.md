@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
