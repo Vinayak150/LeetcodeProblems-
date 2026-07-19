@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2751-robot-collisions) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
