@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Vinayak150/Vinayak/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1340-jump-game-v) |
