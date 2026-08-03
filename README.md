@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vinayak150/Vinayak/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Vinayak150/Vinayak/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1840-maximum-building-height) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vinayak150/Vinayak/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Vinayak150/Vinayak/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -791,4 +794,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
