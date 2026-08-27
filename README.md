@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
