@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0799-champagne-tower) |
+| [0940-distinct-subsequences-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1340-jump-game-v) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vinayak150/Vinayak/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
