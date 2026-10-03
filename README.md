@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/Vinayak150/Vinayak/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0396-rotate-function) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinayak150/Vinayak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0696-count-binary-substrings) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinayak150/Vinayak/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1096-brace-expansion-ii) |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
