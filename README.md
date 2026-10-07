@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0696-count-binary-substrings) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinayak150/Vinayak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1096-brace-expansion-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vinayak150/Vinayak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
