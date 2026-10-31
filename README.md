@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
