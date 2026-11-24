@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Vinayak150/Vinayak/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vinayak150/Vinayak/tree/master/3454-separate-squares-ii) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
@@ -1014,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinayak150/LeetcodeProblems-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
